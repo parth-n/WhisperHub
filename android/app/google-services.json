@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "961879578049",
+    "project_id": "whisperhub-parthn",
+    "storage_bucket": "whisperhub-parthn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961879578049:android:28c57473b9cf8a08ef0b40",
+        "android_client_info": {
+          "package_name": "com.parthn.whisperhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961879578049-hkpud82unrl3j89djoki76mckvofnnk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqirLpSytf6XROSD1wFoqsb16HGiqaWZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961879578049-hkpud82unrl3j89djoki76mckvofnnk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
